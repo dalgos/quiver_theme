@@ -13,3 +13,5 @@
 1. Select downloaded json file.
 1. Select added theme.
 1. **Done!**
+
+Default font : [Hack](http://sourcefoundry.org/hack/)
